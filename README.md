@@ -1,4 +1,4 @@
 # connect-wallet
 Basic code to connect metamask wallet
-    #Step1: npm install 
-    #Step2: npm start
+    1.Step1: npm install 
+    2.Step2: npm start
